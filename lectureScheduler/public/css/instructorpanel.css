@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap');
+
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-text-color: #183b56;
+    --secondary-text-color: #577592;
+    --accent-color: #2294ed;
+    --accent-color-dark: #1d69a3;
+    --background-color : #c7c3bd;
+    --background-color-light : #e0ded5;
+    --nav-background-color :  #333;
+    --white-color : #ffffff;
+    --alert-primary :  #e74c3c;
+    --padding-inline-section: 20px;
+}
+
+/* Body styles */
+body {
+    font-family: 'Poppins', 'sans-serif';
+    color: var(--primary-text-color);
+    background-color: var(--background-color);
+}
+
+
+
+/* Navigation Bar styles */
+.navbar {
+    background-color: var(--nav-background-color);
+    padding: 10px;
+    color: var(--white-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.navbar ul li {
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: var(--white-color);
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin-inline: auto;
+    padding-inline: var(--padding-inline-section);
+    overflow: hidden;
+}
+
+/* Course List styles */
+
+.batch-list ul{
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+    background-color: var(--white-color);
+
+}
+
+.batch-list li {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
