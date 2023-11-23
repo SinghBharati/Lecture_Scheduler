@@ -27,3 +27,9 @@ January, then the admin should be unable to assign him any other lecture on
 1st January.
 Instructor panel: This panel should have the list of all lectures assigned to the logged
 in instructor with dates and course names
+
+## Here Are Some of the ScreenShots
+
+Home Page
+![127 0 0 1_8000_](https://github.com/SinghBharati/Lecture_Scheduler/assets/88208046/038a6a20-7296-4b36-9f73-5cb71d865920)
+
