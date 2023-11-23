@@ -30,6 +30,19 @@ in instructor with dates and course names
 
 ## Here Are Some of the ScreenShots
 
-Home Page
+### Home Page
 ![127 0 0 1_8000_](https://github.com/SinghBharati/Lecture_Scheduler/assets/88208046/038a6a20-7296-4b36-9f73-5cb71d865920)
+
+### Add Course Page
+![127 0 0 1_8000_add_course](https://github.com/SinghBharati/Lecture_Scheduler/assets/88208046/ae52fb7b-3a9f-4a2f-ba36-52c7ee61ccb3)
+
+### Add Batch Page
+![127 0 0 1_8000_add_batch_1](https://github.com/SinghBharati/Lecture_Scheduler/assets/88208046/da612b8e-445c-4ee3-85e2-27fc80c175a9)
+
+### Assigning Batch to Instructor on Same Date
+![127 0 0 1_8000_add_batch_1 (1)](https://github.com/SinghBharati/Lecture_Scheduler/assets/88208046/485712df-eefd-4951-a774-c6539cefe47a)
+
+### Instructor Panel Page
+![127 0 0 1_8000_instructiorpanel_1](https://github.com/SinghBharati/Lecture_Scheduler/assets/88208046/1ee62c77-bdb8-4047-9210-d3e524306e1e)
+
 
